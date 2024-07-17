@@ -8,5 +8,5 @@
 
 3. Configure el Api como el `Startup project` e inicie el proyecto, esto abrirá el navegador con un swagger con el que podrá enviar peticiones.
 
-#### Prueba técica presentada para vacante como desarrolladora de software Junior
+#### Prueba técica presentada para vacante como desarrolladora de software Junior en Amaris
 #### Febrero 29 del 2024
