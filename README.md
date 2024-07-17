@@ -7,3 +7,5 @@
 2. Abrir el proyecto en Visual Studio y editar el `ConnectionString` (Nombre del servidor, usuario y contraseña) que se encuentra en el `appSettings` del Api para que coincida con su base de datos. El servidor de BD debe tener habilitadas las conexiones de autenticación por usuario sqlServer para tener una conexión exitosa desde el código.
 
 3. Configure el Api como el `Startup project` e inicie el proyecto, esto abrirá el navegador con un swagger con el que podrá enviar peticiones.
+
+#### Prueba técica presentada para vacante como desarrolladora de software Junior
